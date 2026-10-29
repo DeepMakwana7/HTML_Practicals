@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Mid-semester exam schedule released",
+    "category": "Academics",
+    "date": "2026-10-24",
+    "description": "The timetable for the upcoming mid-semester examinations has been published. Exams begin on November 10. Please check your course dashboard for specific room allocations.",
+    "link": "timetable.html",
+    "linkText": "Check your timetable"
+  },
+  {
+    "title": "Campus Wi-Fi maintenance shutdown",
+    "category": "IT Support",
+    "date": "2026-10-20",
+    "description": "The campus Wi-Fi network will undergo scheduled maintenance this Saturday from 12:00 AM to 6:00 AM. Internet services in the library and dorms will be temporarily unavailable."
+  },
+  {
+    "title": "Annual sports meet registration open",
+    "category": "Events",
+    "date": "2026-10-15",
+    "description": "Registrations for football, basketball, and track & field events are now live. Interested students must submit their applications before the end of the month.",
+    "link": "events.html",
+    "linkText": "Explore campus events"
+  },
+  {
+    "title": "Library extended study hours",
+    "category": "Campus",
+    "date": "2026-10-12",
+    "description": "The Learning Resource Centre will remain open until 10:00 PM on weekdays during the examination period."
+  },
+  {
+    "title": "Student portal maintenance",
+    "category": "IT Support",
+    "date": "2026-10-08",
+    "description": "StudentHub will be unavailable for planned maintenance on Sunday between 1:00 AM and 3:00 AM."
+  }
+]

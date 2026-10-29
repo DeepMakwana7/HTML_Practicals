@@ -1,0 +1,13 @@
+{
+  "firstName": "Deep",
+  "fullName": "Deep Makwana",
+  "studentId": "25CE000",
+  "contactNumber": "989832xxxx",
+  "email": "deep1234@gmail.com",
+  "college": "CSPIT",
+  "branch": "Computer Engineering",
+  "currentAssignments": 4,
+  "semesterGpa": "3.8",
+  "attendance": "92%",
+  "upcomingDeadline": "Discrete Mathematics is due on 10 August."
+}
