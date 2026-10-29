@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Annual sports meet registration",
+    "category": "Sports",
+    "date": "2026-10-30",
+    "description": "Sign up for football, basketball, and track & field before the registration window closes.",
+    "location": "College grounds",
+    "time": "Registration closes 30 October",
+    "note": "Open to all students",
+    "link": "contact.php",
+    "linkText": "Ask a question"
+  },
+  {
+    "title": "Web development study session",
+    "category": "Workshop",
+    "date": "2026-11-05",
+    "description": "Join fellow students for a collaborative review of web development concepts and project questions.",
+    "location": "Learning Resource Centre",
+    "time": "Afternoon",
+    "note": "Bring your laptop",
+    "link": "resources.html",
+    "linkText": "Study resources"
+  },
+  {
+    "title": "Mid-semester examinations",
+    "category": "Academic",
+    "date": "2026-11-10",
+    "description": "Mid-semester examinations begin. Check your course dashboard for room allocations and the complete schedule.",
+    "location": "CSPIT Campus",
+    "time": "Check timetable",
+    "note": "Schedule available in Notices",
+    "link": "notice.html",
+    "linkText": "View notice"
+  },
+  {
+    "title": "Open source project showcase",
+    "category": "Campus life",
+    "date": "2026-11-18",
+    "description": "Explore student-built software projects and meet the teams behind them.",
+    "location": "Main auditorium",
+    "time": "10:00 AM–2:00 PM",
+    "note": "Everyone is welcome",
+    "link": "contact.php",
+    "linkText": "Get event details"
+  },
+  {
+    "title": "Career planning seminar",
+    "category": "Workshop",
+    "date": "2026-11-24",
+    "description": "Learn practical steps for preparing a portfolio, resume, and interview plan.",
+    "location": "Seminar Hall 2",
+    "time": "11:00 AM",
+    "note": "Seats are limited",
+    "link": "contact.php",
+    "linkText": "Ask a question"
+  },
+  {
+    "title": "End-of-semester cultural evening",
+    "category": "Campus life",
+    "date": "2026-12-04",
+    "description": "Celebrate the semester with student performances, food, and activities.",
+    "location": "College grounds",
+    "time": "5:00 PM onwards",
+    "note": "Open to all students",
+    "link": "contact.php",
+    "linkText": "Get event details"
+  }
+]
