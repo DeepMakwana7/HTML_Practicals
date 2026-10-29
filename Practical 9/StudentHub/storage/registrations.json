@@ -1,0 +1,12 @@
+[
+    {
+        "name": "xyz",
+        "email": "am1234@gmail.com",
+        "mobile": "9999999999",
+        "course": "computer-engineering",
+        "year": "1",
+        "gender": "male",
+        "password_hash": "$2y$10$Of68JbrA/tCR9EE1qzzaHeyg0JY0LMY7v1ASWO39S8tjAVxaXUyFa",
+        "created_at": "2026-10-29T06:24:59+00:00"
+    }
+]
